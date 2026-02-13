@@ -1,0 +1,17 @@
+{
+  "com.liferay.client.extension.type.configuration.CETConfiguration~liferay-7-4-editor-image-tools-js" : {
+    ":configurator:policy" : "force",
+    "baseURL" : "${portalURL}/o/liferay-7-4-image-tools-js",
+    "buildTimestamp" : 1770315803529,
+    "description" : "",
+    "dxp.lxc.liferay.com.virtualInstanceId" : "default",
+    "name" : "Liferay 7.4 Editor Image Tools",
+    "projectId" : "liferay74imagetoolsjs",
+    "projectName" : "liferay-7-4-image-tools-js",
+    "properties" : [ ],
+    "sourceCodeURL" : "",
+    "type" : "globalJS",
+    "typeSettings" : [ "url=index.79187e2a512b9f3155f5.js", "scriptLocation=head", "scope=company" ],
+    "webContextPath" : "/liferay-7-4-image-tools-js"
+  }
+}

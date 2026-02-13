@@ -1,0 +1,24 @@
+{
+	"dependencies": {
+		"@liferay/js-api": "^0.6.2"
+	},
+	"description": "An framework to create custom fields for Liferay fragments and structured web content",
+	"devDependencies": {
+		"@eslint/js": "^10.0.1",
+		"eslint": "^10.0.0",
+		"eslint-webpack-plugin": "^5.0.2",
+		"ts-loader": "9.5.1",
+		"typescript": "^5.9.3",
+		"typescript-eslint": "^8.55.0",
+		"webpack": "5.90.1",
+		"webpack-cli": "5.1.4",
+		"webpack-dev-server": "4.15.1"
+	},
+	"name": "@xtivia/liferay-7-4-custom-field-framework",
+	"scripts": {
+		"build": "webpack",
+		"start": "webpack serve",
+		"watch": "tsc --watch"
+	},
+	"version": "1.0.0"
+}
